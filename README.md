@@ -35,11 +35,11 @@
 
 👋 **Hi there! I'm Kayam Sai Krishna**, an AI/ML Engineer passionate about building production-ready intelligent systems. I specialize in Large Language Models (LLMs) and Generative AI to solve complex real-world challenges.
 
-📍 **Location:** Bangalore, India 🇮🇳
-🎓 **Education:** B.Tech in AI & Machine Learning
-💼 **Role:** AI/ML Engineer Intern @ Ziti
-🚀 **Current Focus:** Building Scalable RAG Architectures & Multi-Agent Systems
-💡 **Philosophy:** Transforming Complexity into Elegant, Efficient Solutions
+- 📍 **Location:** Bangalore, India 🇮🇳
+- 🎓 **Education:** B.Tech in AI & Machine Learning
+- 💼 **Role:** AI/ML Engineer Intern @ Ziti
+- 🚀 **Current Focus:** Building Scalable RAG Architectures & Multi-Agent Systems
+- 💡 **Philosophy:** Transforming Complexity into Elegant, Efficient Solutions
 
 <br/>
 
@@ -175,39 +175,38 @@
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=kayamsaikrishna&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="100%">
+<img src="https://github-profile-trophy.vercel.app/?username=kayamsaikrishna&theme=tokyonight&no-frame=true&margin-w=15" width="100%">
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=kayamsaikrishna&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayamsaikrishna&layout=compact&theme=tokyonight&hide_border=true" width="48%">
+<img src="https://github-readme-stats.vercel.app/api?username=kayamsaikrishna&show_icons=true&theme=tokyonight&count_private=true" width="48%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayamsaikrishna&layout=compact&theme=tokyonight" width="48%">
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <div align="center">
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="35"> Let's Connect & Collaborate
+## Let's Connect & Collaborate
 
 <br/>
 
 <table align="center" style="border: none;">
   <tr>
     <td align="center" style="border: none;">
-      <img src="https://classroomclipart.com/image/content7/51045/thumb.gif" width="200"><br/>
+      <img src="https://classroomclipart.com/image/content7/51045/thumb.gif" width="100"><br/>
       <b>Email</b><br/>
       <a href="mailto:kayamsaikrishna@gmail.com">kayamsaikrishna@gmail.com</a>
     </td>
-    <td width="30" style="border: none;"></td>
+    <td width="20" style="border: none;"></td>
     <td align="center" style="border: none;">
-      <img src="https://ugokawaii.com/wp-content/uploads/2023/06/telephone.gif" width="200"><br/>
+      <img src="https://ugokawaii.com/wp-content/uploads/2023/06/telephone.gif" width="100"><br/>
       <b>Phone</b><br/>
       +91-8088993690
     </td>
-    <td width="30" style="border: none;"></td>
+    <td width="20" style="border: none;"></td>
     <td align="center" style="border: none;">
-      <img src="https://media.tenor.com/57TRBE6D9C8AAAAC/location-graphics.gif" width="200"><br/>
+      <img src="https://media.tenor.com/57TRBE6D9C8AAAAC/location-graphics.gif" width="100"><br/>
       <b>Location</b><br/>
       Bangalore, India
     </td>
