@@ -90,9 +90,9 @@ const kayamSaiKrishna = {
 <p align="center">
   <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" height="50" alt="Hugging Face" />
   <img width="20" />
-  <img src="https://python.langchain.com/img/brand/wordmark.png" height="50" alt="LangChain" />
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain-color.png" height="50" alt="LangChain" />
   <img width="20" />
-  <img src="https://api.nuget.org/v3-flatcontainer/langchain/0.15.3/icon" height="50" alt="LangGraph" />
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langgraph-color.png" height="50" alt="LangGraph" />
   <img width="20" />
   <img src="https://github.com/jmorganca/ollama/assets/3325447/0d0b44e2-8f4a-4e99-9b52-a5c1c741c8f7" height="50" alt="Ollama" />
 </p>
@@ -108,7 +108,7 @@ const kayamSaiKrishna = {
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="60" alt="SQLite" />
   <img width="15" />
-  <img src="https://qdrant.tech/img/logo_with_text.png" height="60" alt="Qdrant" />
+  <img src="https://images.seeklogo.com/logo-png/49/3/qdrant-icon-logo-png_seeklogo-497960.png" height="60" alt="Qdrant" />
 </p>
 
 ### DevOps & Cloud
@@ -143,7 +143,7 @@ const kayamSaiKrishna = {
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="60" alt="Anaconda" />
   <img width="15" />
-  <img src="https://www.vectorlogo.zone/logos/google_colaboratory/google_colaboratory-icon.svg" height="60" alt="Colab" />
+  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" height="60" alt="Colab" />
 </p>
 
 </div>
