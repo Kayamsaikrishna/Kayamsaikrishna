@@ -175,12 +175,12 @@
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=kayamsaikrishna&theme=tokyonight&no-frame=true&margin-w=15" width="100%">
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Kayamsaikrishna&theme=radical&no-frame=true&margin-w=15)](https://github.com/Kayamsaikrishna)
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=kayamsaikrishna&show_icons=true&theme=radical&count_private=true" width="48%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayamsaikrishna&layout=compact&theme=radical" width="48%">
+[![Stats](https://github-readme-stats.vercel.app/api?username=Kayamsaikrishna&show_icons=true&theme=radical&count_private=true)](https://github.com/Kayamsaikrishna)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kayamsaikrishna&layout=compact&theme=radical)](https://github.com/Kayamsaikrishna)
 
 </div>
 
