@@ -167,22 +167,6 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<div align="center">
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Statistics
-
-<br/>
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=kayamsaikrishna&theme=tokyonight&no-frame=true&margin-w=15)
-
-<br/>
-
-![Stats](https://github-readme-stats.vercel.app/api?username=kayamsaikrishna&show_icons=true&theme=tokyonight&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kayamsaikrishna&layout=compact&theme=tokyonight)
-
-</div>
 
 
 <div align="center">
